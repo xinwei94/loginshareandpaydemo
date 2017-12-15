@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LoginShareAndPayDemo</string>
+    <string name="main_title">登录分享和支持测试</string>
+    <string name="main_btn_login">登录</string>
+    <string name="main_btn_share">分享</string>
+    <string name="main_btn_pay">支付</string>
+
+    <string name="login_main_title">登录测试</string>
+    <string name="login_main_btn_qq">QQ登录</string>
+    <string name="login_main_btn_wx">微信登录</string>
+    <string name="login_main_btn_wb">微博登录</string>
+
+    <string name="login_qq_btn_user">获取用户信息</string>
+
+    <string name="share_main_title">分享测试</string>
+    <string name="share_main_btn_qq">QQ分享</string>
+    <string name="share_main_btn_wx">微信分享</string>
+    <string name="share_main_btn_wb">微博分享</string>
+
+    <string name="share_text_btn">分享文字</string>
+    <string name="share_picture_btn">分享图片</string>
+    <string name="share_qzone_btn">分享到空间</string>
+    <string name="publish_qzone_btn">上传到空间</string>
+</resources>
